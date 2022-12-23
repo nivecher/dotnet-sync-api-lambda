@@ -2,4 +2,5 @@
 
 .NET 7 Synchronous REST API deployed to AWS lambda using Terraform
 
-From <https://github.com/jeastham1993/application-integration-patterns>
+From <https://www.youtube.com/watch?v=9eHh946qTIk> using
+<https://github.com/jeastham1993/application-integration-patterns>
